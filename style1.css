@@ -1,0 +1,346 @@
+.name{
+	border-style:transparent;
+	box-sizing:border-box;
+	height:120px;
+	text-align:center;
+	padding-top:15px;
+
+	background-color:#FFFFFF;
+	
+	
+	color:black;
+	font-family:Lucidia Sans Unicode;
+	font-size:80px;
+	border-color:black;
+	
+}
+
+.menu{
+	height:50px;
+	text-align:center;
+	color:Maroon;
+	padding-top:8px;
+	box-sizing:border-box;
+	background-color:#F5BCA9;
+	font-size:30px;
+}
+
+a{
+	text-decoration:none;
+	color:Maroon;
+	display:block;
+	font-family:Lucidia Sans Unicode;
+}
+
+.banner{
+	border-style:transparent;
+	box-sizing:border-box;
+	
+	margin-top:10px;
+	height:180px;
+	text-align:centre;
+	padding-top:60px;
+	font-family:Lucidia Sans Unicode;
+	color:white;
+	font-size:60px;
+	background-image:url("pd2.jpg");
+	text-align:center;
+	
+	
+}
+.in2{
+	border-style:transparent;
+	box-sizing:border-box;
+	
+	margin-top:10px;
+	height:100px;
+	text-align:centre;
+	padding-top:0px;
+	font-family:Lucidia Sans Unicode;
+	color:teal;
+	font-size:22px;
+	background-color:#CEF6F5;
+	height:110px;
+	text-align:center;
+}
+
+.homes{
+	background-color:#F5ECCE;
+	text-align:center;
+	color:brown;
+	font-family:Lucidia Sans Unicode;
+	margin-top:10px;
+	height:350px;
+	border-style:transparent;
+	box-sizing:border-box;
+	font-size:15px;
+}
+
+.footer{
+	background-color:#ECCEF5;
+	height:150px;
+	margin-top:10px;
+	color:purple;
+	
+	
+	
+}
+
+address{
+	text-align:center;
+	font-family:Lucidia Sans Unicode;
+}
+
+#copyright{
+	text-align:center;
+	padding-top:60px;
+	box-sizing:border-box;
+	font-family:Lucidia Sans Unicode;
+}
+
+#follow{
+	padding-left:30px;
+	padding-top:30px;
+	box-sizing:border-box;
+	font-family:Lucidia Sans Unicode;
+	
+}
+.section{
+	background-color:#F2F5A9;
+	text-align:center;
+	color:#61380B;
+	margin-top:10px;
+	height:280px;
+	font-family:Lucidia Sans Unicode;
+	
+	
+}
+
+#two{
+	text-align:left;
+	font-family:Lucidia Sans Unicode;
+	font-size:25px;
+	color:#61380B;
+}
+
+#five{
+	text-align:justify;
+	font-family:Lucidia Sans Unicode;
+	color:#61380B;
+	font-size:25px;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.infra{
+	box-sizing:border-box;
+	
+	margin-top:10px;
+	height:50px;
+	text-align:left;
+	padding-top:10px;
+	font-family:Lucidia Sans Unicode;
+	color:#0B2161;
+	background-color:#CECEF6;
+	height:100px;
+	text-align:center;
+	border-style:transparent;
+}
+
+.pics{
+	margin-top:10px;
+}
+
+.course{
+	box-sizing:border-box;
+	padding-top:10px;
+	margin-top:10px;
+	background-color:#D0F5A9;
+	color:#004225;
+	text-align:center;
+	height:100px;
+	font-family:Lucidia Sans Unicode;
+	
+}
+.sub1{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub2{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+
+.sub3{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub4{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+
+.sub5{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub6{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub7{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub8{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub9{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub10{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub11{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#8A0886,#F781F3);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.sub12{
+	margin-top:10px;
+	padding-top:17px;
+	text-align:center;
+	background-image:linear-gradient(#FF8000,#F5D0A9);
+	color:white;
+	font-family:Lucidia Sans Unicode;
+	height:50px;
+	font-size:26.5px;
+	font-weight:bold
+}
+
+.con{
+	background-color:#F8E0E0;
+	text-align:center;
+	color:#610B21;
+	margin-top:10px;
+	height:200px;
+	padding-top:62px;
+	box-sizing:border-box;
+	font-family:Lucidia Sans Unicode;
+	border-style:transparent;
+	
+	
+}
+
+
+.direction{
+	margin-top:10px;
+}
+
+
+p{
+	text-align:justify;
+	font-family:Lucidia Sans Unicode;
+	color:brown;
+	font-size:25px;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+
+
+
+
+
